@@ -2,12 +2,12 @@
 
 ## What is this?
 
-Explanatory blog post: https://danq.me/well-known-links-in-wordpress
-Original concept and implementation: https://blog.jim-nielsen.com/2022/well-known-links-resource/
-
 `.well-known/links` is a proposal for websites to be able to list their _outgoing_ links in a JSON format at a well-known URL.
 
 This code implemnents a basic plugin to add this functionality to [WordPress](https://wordpress.org/).
+
+- Explanatory blog post: https://danq.me/well-known-links-in-wordpress
+- Original concept and implementation by [@jimniels](https://github.com/jimniels): https://blog.jim-nielsen.com/2022/well-known-links-resource/
 
 ## How do I use it?
 
